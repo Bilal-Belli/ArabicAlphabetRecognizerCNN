@@ -8,23 +8,18 @@ This repository contains a classification model made by python for Arabic Alphab
 ### Architecture
 This model is built using 7 layers.
 <div align="center">
-   <img  width="550" src="">
+   <img  width="550" src="https://github.com/Bilal-Belli/ArabicAlphabetRecognizerCNN/assets/74218805/b0212087-db0c-46f8-b509-44d4e86e0a3b">
 </div>
 
 The model uses the following optimization algorithm:
 - Adam ('adam') for training.
 ### Statistiques
 #### Accuracy
-- The accuracy for the model with 5 classes: 62,14% .
+- The accuracy : 84% .
 - The accuracy is not perfect but it is good.
 #### Confusion Matrix
 <div align="center">
-   <img  width="550" src="">
-</div>
-
-#### True Positive Rate - False Positive Rate
-<div align="center">
-   <img  width="550" src="">
+   <img  width="550" src="https://github.com/Bilal-Belli/ArabicAlphabetRecognizerCNN/assets/74218805/2d71bd08-73e0-4a94-8aef-9b7a43e1750e">
 </div>
 
 ### Model Testing
